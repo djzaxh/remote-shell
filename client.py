@@ -23,4 +23,4 @@ def connect_to_server(server_ip, server_port):
     client.close()
 
 if __name__ == "__main__":
-    connect_to_server("96.85.137.37", 443)  # Replace with your server's IP
+    connect_to_server("96.85.137.37", 443)
